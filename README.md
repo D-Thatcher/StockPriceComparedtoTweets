@@ -23,6 +23,6 @@ and of the visual:
 ![Image of Visual](https://github.com/D-Thatcher/StockPriceComparedtoTweets/blob/master/chart.PNG)
 
 
-You can compare common financial measures, such as volume-weighted-average-price, high, low, close, or just regualr volume.
+You can compare common financial measures, such as volume-weighted-average-price, high, low, close, or just regular volume.
 
 
