@@ -6,7 +6,7 @@ Interested in how a Twitter-active CEO is affecting their company's stock price?
 
 This project allows for a basic correlation analysis, coupled with p-values, and a visual.<br>
 
-To get started, entre your Twitter API keys and access tokens in `Tweepy.py`<br>
+To get started, enter your Twitter API keys and access tokens in `Tweepy.py`<br>
 
 Scroll to the bottom of this file and you can change the Twitter handle to the user of your preference. Run it, and you'll notice a CSV file of their tweets populate your project directory.<br>
 
